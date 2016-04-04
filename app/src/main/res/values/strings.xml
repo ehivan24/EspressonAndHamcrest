@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EspressonAndHamcrest</string>
+    <string name="error_connection">Error While Connection to Network</string>
+</resources>
